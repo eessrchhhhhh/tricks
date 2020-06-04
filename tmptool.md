@@ -13,3 +13,5 @@
 
 [randomuser.me](https://randomuser.me/) RANDOM USER INFO GENERATOR API
 [pipl.ir](https://pipl.ir/v1/getPerson) RANDOM USER INFO GENERATOR API
+
+[gf](https://github.com/tomnomnom/gf) A wrapper around grep, to help you grep for things
